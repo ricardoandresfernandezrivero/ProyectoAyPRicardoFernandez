@@ -1,0 +1,539 @@
+{'nombre': 'Increible Plástico Teclado', 'cantidad': 355, 'precio': 1006.88, 'tipo': 'plate', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Ergonómico Hormigon Bicicleta', 'cantidad': 440, 'precio': 1104.32, 'tipo': 'alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Genérico Algodón Raton', 'cantidad': 384, 'precio': 77.72, 'tipo': 'non-alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Genérico Ladrillo Pantalones', 'cantidad': 321, 'precio': 293.48, 'tipo': 'non-alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Refinado Ladrillo Toallas', 'cantidad': 311, 'precio': 965.12, 'tipo': 'package', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Pequeño Plástico Camiseta', 'cantidad': 391, 'precio': 334.08, 'tipo': 'plate', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Rústico Acero Sopa', 'cantidad': 411, 'precio': 538.24, 'tipo': 'package', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Pequeño Algodón Guantes', 'cantidad': 276, 'precio': 187.92, 'tipo': 'non-alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Guapa Acero Pantalones', 'cantidad': 382, 'precio': 905.96, 'tipo': 'package', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Sorprendente Algodón Queso', 'cantidad': 332, 'precio': 568.4, 'tipo': 'non-alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Sabroso Algodón Teclado', 'cantidad': 105, 'precio': 1086.92, 'tipo': 'plate', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Pequeño Metal Gorro', 'cantidad': 148, 'precio': 1011.52, 'tipo': 'alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Hecho a mano Metal Pelota', 'cantidad': 119, 'precio': 211.12, 'tipo': 'package', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Increible Algodón Raton', 'cantidad': 184, 'precio': 635.68, 'tipo': 'non-alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Guapo Metal Pescado', 'cantidad': 158, 'precio': 679.76, 'tipo': 'alcoholic', 'restaurante': 'Centeno S.L.'}
+{'nombre': 'Genérico Metal Ordenador', 'cantidad': 447, 'precio': 138.04, 'tipo': 'non-alcoholic', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Guapa Granito Raton', 'cantidad': 101, 'precio': 327.12, 'tipo': 'plate', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Ergonómico Madera Pollo', 'cantidad': 243, 'precio': 143.84, 'tipo': 'non-alcoholic', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Refinado Plástico Patatas fritas', 'cantidad': 373, 'precio': 1095.04, 'tipo': 'alcoholic', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Práctico Algodón Pantalones', 'cantidad': 354, 'precio': 10.44, 'tipo': 'package', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Pequeño Algodón Silla', 'cantidad': 420, 'precio': 567.24, 'tipo': 'plate', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Sorprendente Ladrillo Camiseta', 'cantidad': 304, 'precio': 327.12, 'tipo': 'alcoholic', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Artesanal Algodón Salchichas', 'cantidad': 311, 'precio': 103.24, 'tipo': 'non-alcoholic', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Pequeño Hormigon Teclado', 'cantidad': 346, 'precio': 619.44, 'tipo': 'plate', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Sabroso Acero Pelota', 'cantidad': 227, 'precio': 99.76, 'tipo': 'package', 'restaurante': 'Montes y Pacheco'}
+{'nombre': 'Fantástico Acero Teclado', 'cantidad': 201, 'precio': 77.72, 'tipo': 'package', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Guapa Plástico Salchichas', 'cantidad': 355, 'precio': 598.56, 'tipo': 'non-alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Inteligente Algodón Mesa', 'cantidad': 256, 'precio': 1085.76, 'tipo': 'alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Refinado Metal Queso', 'cantidad': 202, 'precio': 734.28, 'tipo': 'plate', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Sorprendente Madera Bacon', 'cantidad': 289, 'precio': 551.0, 'tipo': 'alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Guapo Metal Pantalones', 'cantidad': 325, 'precio': 525.48, 'tipo': 'non-alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Genérico Ladrillo Ensalada', 'cantidad': 462, 'precio': 791.12, 'tipo': 'package', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Refinado Madera Pizza', 'cantidad': 105, 'precio': 876.96, 'tipo': 'package', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Sorprendente Hormigon Queso', 'cantidad': 320, 'precio': 486.04, 'tipo': 'package', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Práctico Madera Salchichas', 'cantidad': 192, 'precio': 1090.4, 'tipo': 'non-alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Artesanal Ladrillo Mesa', 'cantidad': 288, 'precio': 1035.88, 'tipo': 'non-alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Rústico Hormigon Pescado', 'cantidad': 319, 'precio': 218.08, 'tipo': 'non-alcoholic', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Hecho a mano Granito Camiseta', 'cantidad': 414, 'precio': 955.84, 'tipo': 'plate', 'restaurante': 'Pineda y Puga'}
+{'nombre': 'Hecho a mano Ladrillo Gorro', 'cantidad': 152, 'precio': 281.88, 'tipo': 'plate', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Guapa Granito Bacon', 'cantidad': 215, 'precio': 588.12, 'tipo': 'plate', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Genérico Ladrillo Toallas', 'cantidad': 182, 'precio': 359.6, 'tipo': 'package', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Práctico Algodón Toallas', 'cantidad': 360, 'precio': 135.72, 'tipo': 'package', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Pequeño Algodón Ensalada', 'cantidad': 124, 'precio': 1088.08, 'tipo': 'plate', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Increible Granito Pizza', 'cantidad': 259, 'precio': 17.4, 'tipo': 'alcoholic', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Inteligente Granito Guantes', 'cantidad': 216, 'precio': 929.16, 'tipo': 'non-alcoholic', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Genérico Granito Pescado', 'cantidad': 239, 'precio': 342.2, 'tipo': 'plate', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Genérico Madera Sopa', 'cantidad': 261, 'precio': 662.36, 'tipo': 'non-alcoholic', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Refinado Acero Bicicleta', 'cantidad': 140, 'precio': 537.08, 'tipo': 'non-alcoholic', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Artesanal Algodón Ensalada', 'cantidad': 333, 'precio': 328.28, 'tipo': 'alcoholic', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Genérico Acero Atún', 'cantidad': 381, 'precio': 770.24, 'tipo': 'plate', 'restaurante': 'Aponte, Guillén y Jurado Asociados'}
+{'nombre': 'Práctico Acero Ensalada', 'cantidad': 397, 'precio': 711.08, 'tipo': 'package', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Guapa Madera Mesa', 'cantidad': 158, 'precio': 680.92, 'tipo': 'package', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Inteligente Hormigon Queso', 'cantidad': 240, 'precio': 662.36, 'tipo': 'plate', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Artesanal Ladrillo Gorro', 'cantidad': 279, 'precio': 528.96, 'tipo': 'alcoholic', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Genérico Algodón Pescado', 'cantidad': 499, 'precio': 468.64, 'tipo': 'package', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Genérico Acero Mesa', 'cantidad': 127, 'precio': 635.68, 'tipo': 'non-alcoholic', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Sorprendente Ladrillo Mesa', 'cantidad': 179, 'precio': 814.32, 'tipo': 'plate', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Fantástico Plástico Toallas', 'cantidad': 367, 'precio': 938.44, 'tipo': 'non-alcoholic', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Increible Madera Zapatos', 'cantidad': 233, 'precio': 856.08, 'tipo': 'package', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Ergonómico Madera Ensalada', 'cantidad': 103, 'precio': 13.92, 'tipo': 'non-alcoholic', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Práctico Granito Raton', 'cantidad': 207, 'precio': 439.64, 'tipo': 'alcoholic', 'restaurante': 'Carbajal Medina S.L.'}
+{'nombre': 'Fantástico Hormigon Queso', 'cantidad': 215, 'precio': 593.92, 'tipo': 'plate', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Increible Plástico Pescado', 'cantidad': 165, 'precio': 969.76, 'tipo': 'non-alcoholic', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Artesanal Hormigon Guantes', 'cantidad': 446, 'precio': 965.12, 'tipo': 'package', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Práctico Madera Guantes', 'cantidad': 306, 'precio': 842.16, 'tipo': 'non-alcoholic', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Pequeño Hormigon Pelota', 'cantidad': 176, 'precio': 135.72, 'tipo': 'alcoholic', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Sabroso Granito Pizza', 'cantidad': 245, 'precio': 629.88, 'tipo': 'alcoholic', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Refinado Hormigon Toallas', 'cantidad': 357, 'precio': 684.4, 'tipo': 'alcoholic', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Guapa Acero Gorro', 'cantidad': 270, 'precio': 715.72, 'tipo': 'non-alcoholic', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Ergonómico Madera Toallas', 'cantidad': 229, 'precio': 705.28, 'tipo': 'plate', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Ergonómico Acero Salchichas', 'cantidad': 428, 'precio': 176.32, 'tipo': 'plate', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Ergonómico Acero Ensalada', 'cantidad': 266, 'precio': 293.48, 'tipo': 'package', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Rústico Plástico Sopa', 'cantidad': 130, 'precio': 323.64, 'tipo': 'plate', 'restaurante': 'Solorzano Quintero e Hijos'}
+{'nombre': 'Rústico Plástico Zapatos', 'cantidad': 442, 'precio': 444.28, 'tipo': 'plate', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Guapa Granito Silla', 'cantidad': 189, 'precio': 577.68, 'tipo': 'alcoholic', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Pequeño Algodón Bicicleta', 'cantidad': 491, 'precio': 127.6, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Refinado Ladrillo Pantalones', 'cantidad': 402, 'precio': 1107.8, 'tipo': 'plate', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Refinado Granito Patatas fritas', 'cantidad': 422, 'precio': 551.0, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Guapo Algodón Pollo', 'cantidad': 195, 'precio': 502.28, 'tipo': 'plate', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Guapa Ladrillo Ensalada', 'cantidad': 357, 'precio': 911.76, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Guapa Hormigon Mesa', 'cantidad': 431, 'precio': 1084.6, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Increible Algodón Ordenador', 'cantidad': 290, 'precio': 1068.36, 'tipo': 'plate', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Inteligente Plástico Pelota', 'cantidad': 332, 'precio': 566.08, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Guapa Acero Bacon', 'cantidad': 454, 'precio': 506.92, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Genérico Ladrillo Guantes', 'cantidad': 264, 'precio': 990.64, 'tipo': 'package', 'restaurante': 'Pacheco, Mesa y Quiñones Asociados'}
+{'nombre': 'Guapa Plástico Coche', 'cantidad': 118, 'precio': 238.96, 'tipo': 'package', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Fantástico Hormigon Pescado', 'cantidad': 192, 'precio': 593.92, 'tipo': 'package', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Ergonómico Hormigon Gorro', 'cantidad': 283, 'precio': 582.32, 'tipo': 'alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Sabroso Granito Guantes', 'cantidad': 293, 'precio': 1020.8, 'tipo': 'package', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Hecho a mano Metal Ensalada', 'cantidad': 244, 'precio': 382.8, 'tipo': 'alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Inteligente Algodón Camiseta', 'cantidad': 187, 'precio': 229.68, 'tipo': 'plate', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Genérico Madera Pescado', 'cantidad': 491, 'precio': 851.44, 'tipo': 'alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Artesanal Algodón Pizza', 'cantidad': 294, 'precio': 878.12, 'tipo': 'alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Fantástico Plástico Mesa', 'cantidad': 235, 'precio': 212.28, 'tipo': 'alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Rústico Madera Ordenador', 'cantidad': 272, 'precio': 1140.28, 'tipo': 'alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Sabroso Madera Ensalada', 'cantidad': 499, 'precio': 631.04, 'tipo': 'plate', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Genérico Hormigon Teclado', 'cantidad': 500, 'precio': 16.24, 'tipo': 'non-alcoholic', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Inteligente Ladrillo Ensalada', 'cantidad': 137, 'precio': 842.16, 'tipo': 'package', 'restaurante': 'Rentería Marín e Hijos'}
+{'nombre': 'Sabroso Madera Ordenador', 'cantidad': 209, 'precio': 714.56, 'tipo': 'alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Increible Hormigon Ordenador', 'cantidad': 271, 'precio': 1019.64, 'tipo': 'alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Hecho a mano Algodón Pelota', 'cantidad': 318, 'precio': 87.0, 'tipo': 'plate', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Rústico Madera Ordenador', 'cantidad': 141, 'precio': 562.6, 'tipo': 'non-alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Hecho a mano Ladrillo Raton', 'cantidad': 495, 'precio': 1086.92, 'tipo': 'plate', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Artesanal Granito Ordenador', 'cantidad': 363, 'precio': 874.64, 'tipo': 'alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Rústico Ladrillo Ensalada', 'cantidad': 431, 'precio': 1106.64, 'tipo': 'alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Genérico Algodón Toallas', 'cantidad': 255, 'precio': 211.12, 'tipo': 'alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Práctico Acero Teclado', 'cantidad': 153, 'precio': 893.2, 'tipo': 'plate', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Práctico Plástico Bicicleta', 'cantidad': 271, 'precio': 1071.84, 'tipo': 'package', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Sabroso Algodón Zapatos', 'cantidad': 220, 'precio': 1027.76, 'tipo': 'non-alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Guapo Plástico Gorro', 'cantidad': 260, 'precio': 1122.88, 'tipo': 'non-alcoholic', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Práctico Ladrillo Guantes', 'cantidad': 218, 'precio': 53.36, 'tipo': 'plate', 'restaurante': 'Carrasco y Calvillo'}
+{'nombre': 'Fantástico Granito Pescado', 'cantidad': 409, 'precio': 602.04, 'tipo': 'plate', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Práctico Acero Mesa', 'cantidad': 107, 'precio': 801.56, 'tipo': 'non-alcoholic', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Sabroso Madera Silla', 'cantidad': 174, 'precio': 446.6, 'tipo': 'plate', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Guapo Plástico Coche', 'cantidad': 358, 'precio': 262.16, 'tipo': 'package', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Ergonómico Ladrillo Coche', 'cantidad': 434, 'precio': 97.44, 'tipo': 'non-alcoholic', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Fantástico Acero Pelota', 'cantidad': 177, 'precio': 264.48, 'tipo': 'plate', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Hecho a mano Hormigon Silla', 'cantidad': 385, 'precio': 858.4, 'tipo': 'non-alcoholic', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Ergonómico Acero Coche', 'cantidad': 119, 'precio': 849.12, 'tipo': 'package', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Increible Plástico Raton', 'cantidad': 497, 'precio': 1017.32, 'tipo': 'plate', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Hecho a mano Granito Gorro', 'cantidad': 280, 'precio': 1128.68, 'tipo': 'alcoholic', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Ergonómico Madera Patatas fritas', 'cantidad': 202, 'precio': 792.28, 'tipo': 'non-alcoholic', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Sorprendente Metal Ensalada', 'cantidad': 119, 'precio': 489.52, 'tipo': 'plate', 'restaurante': 'Carmona S.L.'}
+{'nombre': 'Artesanal Madera Camiseta', 'cantidad': 261, 'precio': 994.12, 'tipo': 'non-alcoholic', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Sabroso Hormigon Gorro', 'cantidad': 476, 'precio': 1046.32, 'tipo': 'plate', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Genérico Algodón Mesa', 'cantidad': 215, 'precio': 726.16, 'tipo': 'plate', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Guapo Madera Patatas fritas', 'cantidad': 112, 'precio': 406.0, 'tipo': 'plate', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Increible Algodón Mesa', 'cantidad': 302, 'precio': 655.4, 'tipo': 'non-alcoholic', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Ergonómico Hormigon Zapatos', 'cantidad': 203, 'precio': 870.0, 'tipo': 'alcoholic', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Fantástico Algodón Patatas fritas', 'cantidad': 436, 'precio': 325.96, 'tipo': 'non-alcoholic', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Fantástico Madera Bacon', 'cantidad': 192, 'precio': 984.84, 'tipo': 'package', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Práctico Ladrillo Bicicleta', 'cantidad': 367, 'precio': 62.64, 'tipo': 'package', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Refinado Algodón Pelota', 'cantidad': 159, 'precio': 967.44, 'tipo': 'plate', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Práctico Granito Salchichas', 'cantidad': 353, 'precio': 915.24, 'tipo': 'alcoholic', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Práctico Ladrillo Toallas', 'cantidad': 148, 'precio': 375.84, 'tipo': 'package', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Refinado Madera Mesa', 'cantidad': 331, 'precio': 520.84, 'tipo': 'plate', 'restaurante': 'Santillán, Rojo y Velasco Asociados'}
+{'nombre': 'Genérico Granito Camiseta', 'cantidad': 249, 'precio': 87.0, 'tipo': 'non-alcoholic', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Genérico Plástico Raton', 'cantidad': 217, 'precio': 269.12, 'tipo': 'non-alcoholic', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Increible Acero Coche', 'cantidad': 301, 'precio': 752.84, 'tipo': 'alcoholic', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Pequeño Metal Guantes', 'cantidad': 199, 'precio': 902.48, 'tipo': 'package', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Increible Granito Coche', 'cantidad': 268, 'precio': 380.48, 'tipo': 'alcoholic', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Sorprendente Metal Pantalones', 'cantidad': 219, 'precio': 178.64, 'tipo': 'package', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Inteligente Algodón Salchichas', 'cantidad': 192, 'precio': 117.16, 'tipo': 'package', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Hecho a mano Metal Toallas', 'cantidad': 249, 'precio': 1090.4, 'tipo': 'package', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Guapa Plástico Pelota', 'cantidad': 397, 'precio': 561.44, 'tipo': 'package', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Guapo Hormigon Queso', 'cantidad': 230, 'precio': 583.48, 'tipo': 'alcoholic', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Ergonómico Plástico Patatas fritas', 'cantidad': 298, 'precio': 1107.8, 'tipo': 'plate', 'restaurante': 'Munguía Hermanos'}
+{'nombre': 'Rústico Plástico Pantalones', 'cantidad': 236, 'precio': 904.8, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Rústico Madera Raton', 'cantidad': 211, 'precio': 1099.68, 'tipo': 'non-alcoholic', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Rústico Acero Silla', 'cantidad': 206, 'precio': 198.36, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Rústico Ladrillo Camiseta', 'cantidad': 441, 'precio': 959.32, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Ergonómico Acero Pollo', 'cantidad': 327, 'precio': 642.64, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Pequeño Hormigon Pescado', 'cantidad': 393, 'precio': 1140.28, 'tipo': 'plate', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Refinado Metal Camiseta', 'cantidad': 185, 'precio': 1114.76, 'tipo': 'non-alcoholic', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Rústico Algodón Pantalones', 'cantidad': 143, 'precio': 1027.76, 'tipo': 'alcoholic', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Sorprendente Hormigon Coche', 'cantidad': 227, 'precio': 102.08, 'tipo': 'plate', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Sabroso Ladrillo Pantalones', 'cantidad': 256, 'precio': 223.88, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Guapo Metal Pescado', 'cantidad': 374, 'precio': 23.2, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Fantástico Ladrillo Queso', 'cantidad': 175, 'precio': 428.04, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Rústico Metal Mesa', 'cantidad': 159, 'precio': 298.12, 'tipo': 'plate', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Inteligente Hormigon Ensalada', 'cantidad': 431, 'precio': 64.96, 'tipo': 'package', 'restaurante': 'Llamas, Cervántez y Barragán Asociados'}
+{'nombre': 'Refinado Granito Pantalones', 'cantidad': 249, 'precio': 448.92, 'tipo': 'plate', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Sabroso Plástico Pantalones', 'cantidad': 225, 'precio': 472.12, 'tipo': 'plate', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Refinado Granito Silla', 'cantidad': 404, 'precio': 628.72, 'tipo': 'package', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Pequeño Plástico Ensalada', 'cantidad': 373, 'precio': 160.08, 'tipo': 'non-alcoholic', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Fantástico Hormigon Toallas', 'cantidad': 300, 'precio': 578.84, 'tipo': 'package', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Ergonómico Acero Teclado', 'cantidad': 301, 'precio': 685.56, 'tipo': 'alcoholic', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Rústico Acero Silla', 'cantidad': 471, 'precio': 1057.92, 'tipo': 'package', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Refinado Algodón Pizza', 'cantidad': 340, 'precio': 1066.04, 'tipo': 'package', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Pequeño Madera Teclado', 'cantidad': 447, 'precio': 578.84, 'tipo': 'plate', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Pequeño Hormigon Ordenador', 'cantidad': 196, 'precio': 103.24, 'tipo': 'package', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Rústico Plástico Ensalada', 'cantidad': 216, 'precio': 1059.08, 'tipo': 'non-alcoholic', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Genérico Hormigon Sopa', 'cantidad': 351, 'precio': 747.04, 'tipo': 'non-alcoholic', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Genérico Metal Gorro', 'cantidad': 406, 'precio': 93.96, 'tipo': 'package', 'restaurante': 'Cordero, Tijerina y Ibarra Asociados'}
+{'nombre': 'Guapa Ladrillo Salchichas', 'cantidad': 435, 'precio': 618.28, 'tipo': 'non-alcoholic', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Sorprendente Metal Silla', 'cantidad': 266, 'precio': 155.44, 'tipo': 'plate', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Guapo Algodón Pelota', 'cantidad': 442, 'precio': 139.2, 'tipo': 'non-alcoholic', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Increible Ladrillo Pantalones', 'cantidad': 256, 'precio': 446.6, 'tipo': 'non-alcoholic', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Genérico Algodón Silla', 'cantidad': 196, 'precio': 599.72, 'tipo': 'alcoholic', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Artesanal Plástico Teclado', 'cantidad': 146, 'precio': 199.52, 'tipo': 'alcoholic', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Sabroso Plástico Gorro', 'cantidad': 261, 'precio': 1100.84, 'tipo': 'plate', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Artesanal Hormigon Camiseta', 'cantidad': 182, 'precio': 295.8, 'tipo': 'plate', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Sabroso Hormigon Pescado', 'cantidad': 119, 'precio': 1002.24, 'tipo': 'package', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Hecho a mano Plástico Pantalones', 'cantidad': 451, 'precio': 606.68, 'tipo': 'alcoholic', 'restaurante': 'Orozco e Hijos'}
+{'nombre': 'Guapo Hormigon Pizza', 'cantidad': 336, 'precio': 651.92, 'tipo': 'alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Artesanal Algodón Sopa', 'cantidad': 367, 'precio': 570.72, 'tipo': 'plate', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Pequeño Hormigon Pelota', 'cantidad': 305, 'precio': 1081.12, 'tipo': 'package', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Inteligente Algodón Pollo', 'cantidad': 150, 'precio': 383.96, 'tipo': 'alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Sorprendente Plástico Ordenador', 'cantidad': 185, 'precio': 1096.2, 'tipo': 'non-alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Genérico Algodón Pollo', 'cantidad': 131, 'precio': 545.2, 'tipo': 'non-alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Guapa Plástico Gorro', 'cantidad': 417, 'precio': 316.68, 'tipo': 'alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Guapa Hormigon Raton', 'cantidad': 296, 'precio': 110.2, 'tipo': 'plate', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Refinado Metal Camiseta', 'cantidad': 157, 'precio': 603.2, 'tipo': 'alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Inteligente Granito Ensalada', 'cantidad': 259, 'precio': 873.48, 'tipo': 'non-alcoholic', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Increible Algodón Coche', 'cantidad': 457, 'precio': 882.76, 'tipo': 'plate', 'restaurante': 'Perales S.L.'}
+{'nombre': 'Sabroso Ladrillo Coche', 'cantidad': 217, 'precio': 562.6, 'tipo': 'plate', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Práctico Madera Zapatos', 'cantidad': 414, 'precio': 726.16, 'tipo': 'non-alcoholic', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Pequeño Madera Guantes', 'cantidad': 106, 'precio': 150.8, 'tipo': 'plate', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Pequeño Madera Pantalones', 'cantidad': 452, 'precio': 593.92, 'tipo': 'package', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Refinado Madera Patatas fritas', 'cantidad': 332, 'precio': 760.96, 'tipo': 'package', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Refinado Ladrillo Coche', 'cantidad': 205, 'precio': 808.52, 'tipo': 'plate', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Sorprendente Hormigon Sopa', 'cantidad': 317, 'precio': 1103.16, 'tipo': 'plate', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Inteligente Acero Patatas fritas', 'cantidad': 294, 'precio': 592.76, 'tipo': 'alcoholic', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Artesanal Acero Gorro', 'cantidad': 471, 'precio': 30.16, 'tipo': 'plate', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Genérico Plástico Pollo', 'cantidad': 480, 'precio': 1008.04, 'tipo': 'package', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Guapo Metal Bacon', 'cantidad': 308, 'precio': 416.44, 'tipo': 'plate', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Increible Madera Salchichas', 'cantidad': 202, 'precio': 191.4, 'tipo': 'alcoholic', 'restaurante': 'Agosto Delrío S.L.'}
+{'nombre': 'Artesanal Ladrillo Ensalada', 'cantidad': 239, 'precio': 508.08, 'tipo': 'package', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Hecho a mano Metal Gorro', 'cantidad': 384, 'precio': 663.52, 'tipo': 'package', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Guapo Metal Salchichas', 'cantidad': 298, 'precio': 183.28, 'tipo': 'non-alcoholic', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Práctico Algodón Coche', 'cantidad': 200, 'precio': 129.92, 'tipo': 'package', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Ergonómico Acero Zapatos', 'cantidad': 376, 'precio': 302.76, 'tipo': 'package', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Sabroso Hormigon Zapatos', 'cantidad': 258, 'precio': 662.36, 'tipo': 'non-alcoholic', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Hecho a mano Granito Queso', 'cantidad': 188, 'precio': 1137.96, 'tipo': 'non-alcoholic', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Guapa Madera Ordenador', 'cantidad': 481, 'precio': 187.92, 'tipo': 'plate', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Práctico Acero Pescado', 'cantidad': 489, 'precio': 738.92, 'tipo': 'plate', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Hecho a mano Hormigon Pescado', 'cantidad': 397, 'precio': 1137.96, 'tipo': 'non-alcoholic', 'restaurante': 'Téllez y Leal'}
+{'nombre': 'Refinado Plástico Bicicleta', 'cantidad': 107, 'precio': 975.56, 'tipo': 'non-alcoholic', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Genérico Algodón Coche', 'cantidad': 325, 'precio': 698.32, 'tipo': 'non-alcoholic', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Pequeño Hormigon Pizza', 'cantidad': 254, 'precio': 693.68, 'tipo': 'plate', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Pequeño Metal Coche', 'cantidad': 140, 'precio': 658.88, 'tipo': 'non-alcoholic', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Ergonómico Granito Salchichas', 'cantidad': 449, 'precio': 395.56, 'tipo': 'package', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Guapa Acero Pescado', 'cantidad': 372, 'precio': 1095.04, 'tipo': 'non-alcoholic', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Sabroso Hormigon Queso', 'cantidad': 381, 'precio': 680.92, 'tipo': 'plate', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Guapo Ladrillo Sopa', 'cantidad': 355, 'precio': 13.92, 'tipo': 'alcoholic', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Hecho a mano Plástico Pollo', 'cantidad': 421, 'precio': 574.2, 'tipo': 'non-alcoholic', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Guapa Algodón Ordenador', 'cantidad': 117, 'precio': 1030.08, 'tipo': 'plate', 'restaurante': 'Urrutia y Pelayo'}
+{'nombre': 'Ergonómico Ladrillo Bacon', 'cantidad': 188, 'precio': 293.48, 'tipo': 'alcoholic', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Guapo Ladrillo Pescado', 'cantidad': 438, 'precio': 686.72, 'tipo': 'plate', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Refinado Algodón Toallas', 'cantidad': 317, 'precio': 770.24, 'tipo': 'plate', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Pequeño Algodón Atún', 'cantidad': 278, 'precio': 509.24, 'tipo': 'non-alcoholic', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Inteligente Granito Sopa', 'cantidad': 401, 'precio': 991.8, 'tipo': 'alcoholic', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Pequeño Hormigon Gorro', 'cantidad': 194, 'precio': 547.52, 'tipo': 'package', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Guapa Madera Bacon', 'cantidad': 418, 'precio': 12.76, 'tipo': 'alcoholic', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Ergonómico Algodón Zapatos', 'cantidad': 306, 'precio': 607.84, 'tipo': 'plate', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Fantástico Madera Guantes', 'cantidad': 376, 'precio': 795.76, 'tipo': 'plate', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Práctico Algodón Bicicleta', 'cantidad': 290, 'precio': 201.84, 'tipo': 'non-alcoholic', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Sabroso Granito Raton', 'cantidad': 439, 'precio': 726.16, 'tipo': 'alcoholic', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Increible Metal Pantalones', 'cantidad': 388, 'precio': 251.72, 'tipo': 'plate', 'restaurante': 'Araña Villagómez e Hijos'}
+{'nombre': 'Pequeño Metal Pescado', 'cantidad': 371, 'precio': 464.0, 'tipo': 'package', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Sabroso Granito Patatas fritas', 'cantidad': 307, 'precio': 1142.6, 'tipo': 'package', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Guapa Ladrillo Patatas fritas', 'cantidad': 301, 'precio': 560.28, 'tipo': 'alcoholic', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Hecho a mano Algodón Teclado', 'cantidad': 213, 'precio': 401.36, 'tipo': 'alcoholic', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Inteligente Acero Silla', 'cantidad': 264, 'precio': 104.4, 'tipo': 'plate', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Sorprendente Algodón Atún', 'cantidad': 473, 'precio': 493.0, 'tipo': 'alcoholic', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Hecho a mano Granito Zapatos', 'cantidad': 376, 'precio': 168.2, 'tipo': 'package', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Pequeño Acero Toallas', 'cantidad': 130, 'precio': 90.48, 'tipo': 'package', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Genérico Metal Mesa', 'cantidad': 304, 'precio': 614.8, 'tipo': 'plate', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Hecho a mano Hormigon Toallas', 'cantidad': 322, 'precio': 244.76, 'tipo': 'alcoholic', 'restaurante': 'Soto y Mesa'}
+{'nombre': 'Fantástico Hormigon Salchichas', 'cantidad': 338, 'precio': 571.88, 'tipo': 'plate', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Fantástico Acero Gorro', 'cantidad': 487, 'precio': 251.72, 'tipo': 'non-alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Refinado Metal Guantes', 'cantidad': 445, 'precio': 683.24, 'tipo': 'non-alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Práctico Granito Toallas', 'cantidad': 298, 'precio': 285.36, 'tipo': 'plate', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Sorprendente Plástico Silla', 'cantidad': 435, 'precio': 827.08, 'tipo': 'package', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Artesanal Madera Zapatos', 'cantidad': 218, 'precio': 764.44, 'tipo': 'alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Práctico Ladrillo Raton', 'cantidad': 365, 'precio': 332.92, 'tipo': 'alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Increible Acero Sopa', 'cantidad': 403, 'precio': 406.0, 'tipo': 'package', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Guapa Madera Salchichas', 'cantidad': 372, 'precio': 547.52, 'tipo': 'plate', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Artesanal Algodón Ordenador', 'cantidad': 209, 'precio': 1046.32, 'tipo': 'non-alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Refinado Madera Teclado', 'cantidad': 110, 'precio': 787.64, 'tipo': 'alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Rústico Ladrillo Camiseta', 'cantidad': 451, 'precio': 116.0, 'tipo': 'package', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Guapo Metal Raton', 'cantidad': 281, 'precio': 679.76, 'tipo': 'non-alcoholic', 'restaurante': 'Moreno y Irizarry'}
+{'nombre': 'Rústico Madera Silla', 'cantidad': 387, 'precio': 387.44, 'tipo': 'non-alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Guapo Metal Pelota', 'cantidad': 273, 'precio': 571.88, 'tipo': 'package', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Fantástico Algodón Camiseta', 'cantidad': 270, 'precio': 593.92, 'tipo': 'alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Práctico Algodón Guantes', 'cantidad': 368, 'precio': 684.4, 'tipo': 'alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Sabroso Algodón Pantalones', 'cantidad': 130, 'precio': 232.0, 'tipo': 'plate', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Increible Metal Toallas', 'cantidad': 449, 'precio': 206.48, 'tipo': 'alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Hecho a mano Plástico Sopa', 'cantidad': 284, 'precio': 640.32, 'tipo': 'non-alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Ergonómico Madera Pescado', 'cantidad': 103, 'precio': 46.4, 'tipo': 'plate', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Práctico Hormigon Bacon', 'cantidad': 355, 'precio': 801.56, 'tipo': 'non-alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Práctico Ladrillo Pizza', 'cantidad': 482, 'precio': 464.0, 'tipo': 'plate', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Hecho a mano Granito Pollo', 'cantidad': 301, 'precio': 1040.52, 'tipo': 'non-alcoholic', 'restaurante': 'Mares, Samaniego y Matías Asociados'}
+{'nombre': 'Increible Granito Bicicleta', 'cantidad': 400, 'precio': 701.8, 'tipo': 'plate', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Ergonómico Algodón Pollo', 'cantidad': 353, 'precio': 852.6, 'tipo': 'package', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Genérico Madera Teclado', 'cantidad': 363, 'precio': 699.48, 'tipo': 'plate', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Hecho a mano Acero Toallas', 'cantidad': 296, 'precio': 141.52, 'tipo': 'package', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Genérico Metal Silla', 'cantidad': 115, 'precio': 952.36, 'tipo': 'plate', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Fantástico Metal Gorro', 'cantidad': 142, 'precio': 351.48, 'tipo': 'non-alcoholic', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Guapo Plástico Salchichas', 'cantidad': 358, 'precio': 1139.12, 'tipo': 'plate', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Refinado Plástico Raton', 'cantidad': 500, 'precio': 484.88, 'tipo': 'package', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Genérico Ladrillo Pantalones', 'cantidad': 187, 'precio': 624.08, 'tipo': 'non-alcoholic', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Guapa Ladrillo Mesa', 'cantidad': 281, 'precio': 696.0, 'tipo': 'alcoholic', 'restaurante': 'Beltrán, Ojeda y Solís Asociados'}
+{'nombre': 'Refinado Granito Teclado', 'cantidad': 247, 'precio': 222.72, 'tipo': 'alcoholic', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Increible Acero Queso', 'cantidad': 104, 'precio': 510.4, 'tipo': 'plate', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Increible Ladrillo Ensalada', 'cantidad': 172, 'precio': 1015.0, 'tipo': 'plate', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Sorprendente Madera Pollo', 'cantidad': 391, 'precio': 11.6, 'tipo': 'package', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Guapa Ladrillo Salchichas', 'cantidad': 446, 'precio': 576.52, 'tipo': 'package', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Hecho a mano Granito Sopa', 'cantidad': 190, 'precio': 779.52, 'tipo': 'package', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Inteligente Algodón Ensalada', 'cantidad': 295, 'precio': 252.88, 'tipo': 'non-alcoholic', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Rústico Acero Teclado', 'cantidad': 116, 'precio': 237.8, 'tipo': 'alcoholic', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Hecho a mano Algodón Mesa', 'cantidad': 224, 'precio': 989.48, 'tipo': 'alcoholic', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Rústico Granito Silla', 'cantidad': 479, 'precio': 680.92, 'tipo': 'plate', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Genérico Granito Pizza', 'cantidad': 388, 'precio': 907.12, 'tipo': 'plate', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Artesanal Madera Gorro', 'cantidad': 446, 'precio': 25.52, 'tipo': 'non-alcoholic', 'restaurante': 'Soria Delatorre S.L.'}
+{'nombre': 'Hecho a mano Hormigon Pizza', 'cantidad': 293, 'precio': 424.56, 'tipo': 'package', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Sabroso Acero Bicicleta', 'cantidad': 411, 'precio': 83.52, 'tipo': 'alcoholic', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Inteligente Ladrillo Guantes', 'cantidad': 384, 'precio': 648.44, 'tipo': 'plate', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Guapo Granito Sopa', 'cantidad': 410, 'precio': 419.92, 'tipo': 'plate', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Fantástico Plástico Mesa', 'cantidad': 422, 'precio': 141.52, 'tipo': 'plate', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Artesanal Metal Teclado', 'cantidad': 226, 'precio': 225.04, 'tipo': 'alcoholic', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Hecho a mano Hormigon Ensalada', 'cantidad': 446, 'precio': 720.36, 'tipo': 'plate', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Genérico Algodón Ordenador', 'cantidad': 223, 'precio': 73.08, 'tipo': 'package', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Inteligente Madera Pelota', 'cantidad': 473, 'precio': 718.04, 'tipo': 'plate', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Guapa Acero Mesa', 'cantidad': 147, 'precio': 552.16, 'tipo': 'non-alcoholic', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Fantástico Ladrillo Gorro', 'cantidad': 455, 'precio': 58.0, 'tipo': 'package', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Práctico Madera Silla', 'cantidad': 146, 'precio': 1069.52, 'tipo': 'non-alcoholic', 'restaurante': 'Álvarez, Jurado y Rubio Asociados'}
+{'nombre': 'Guapa Plástico Coche', 'cantidad': 418, 'precio': 785.32, 'tipo': 'package', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Guapo Ladrillo Patatas fritas', 'cantidad': 200, 'precio': 102.08, 'tipo': 'non-alcoholic', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Guapo Granito Pizza', 'cantidad': 441, 'precio': 60.32, 'tipo': 'plate', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Práctico Acero Mesa', 'cantidad': 386, 'precio': 404.84, 'tipo': 'plate', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Ergonómico Algodón Coche', 'cantidad': 314, 'precio': 149.64, 'tipo': 'plate', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Hecho a mano Metal Bicicleta', 'cantidad': 460, 'precio': 460.52, 'tipo': 'alcoholic', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Increible Plástico Toallas', 'cantidad': 448, 'precio': 1041.68, 'tipo': 'package', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Sabroso Metal Bacon', 'cantidad': 168, 'precio': 917.56, 'tipo': 'plate', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Refinado Madera Patatas fritas', 'cantidad': 476, 'precio': 193.72, 'tipo': 'alcoholic', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Increible Ladrillo Pescado', 'cantidad': 465, 'precio': 241.28, 'tipo': 'package', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Hecho a mano Granito Ensalada', 'cantidad': 134, 'precio': 424.56, 'tipo': 'alcoholic', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Genérico Granito Zapatos', 'cantidad': 487, 'precio': 755.16, 'tipo': 'plate', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Guapo Plástico Ordenador', 'cantidad': 439, 'precio': 1057.92, 'tipo': 'plate', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Genérico Plástico Teclado', 'cantidad': 248, 'precio': 750.52, 'tipo': 'non-alcoholic', 'restaurante': 'Becerra y Laureano'}
+{'nombre': 'Fantástico Madera Gorro', 'cantidad': 306, 'precio': 472.12, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Increible Plástico Pescado', 'cantidad': 302, 'precio': 170.52, 'tipo': 'plate', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Rústico Ladrillo Guantes', 'cantidad': 235, 'precio': 932.64, 'tipo': 'package', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Rústico Metal Bicicleta', 'cantidad': 296, 'precio': 986.0, 'tipo': 'plate', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Sorprendente Algodón Pelota', 'cantidad': 407, 'precio': 212.28, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Refinado Acero Ordenador', 'cantidad': 153, 'precio': 1037.04, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Guapo Acero Raton', 'cantidad': 153, 'precio': 518.52, 'tipo': 'package', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Práctico Acero Silla', 'cantidad': 438, 'precio': 930.32, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Hecho a mano Hormigon Zapatos', 'cantidad': 467, 'precio': 40.6, 'tipo': 'non-alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Genérico Madera Sopa', 'cantidad': 244, 'precio': 986.0, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Inteligente Plástico Coche', 'cantidad': 274, 'precio': 738.92, 'tipo': 'plate', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Fantástico Metal Camiseta', 'cantidad': 189, 'precio': 534.76, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Sorprendente Acero Pollo', 'cantidad': 223, 'precio': 205.32, 'tipo': 'plate', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Guapo Acero Bicicleta', 'cantidad': 347, 'precio': 600.88, 'tipo': 'non-alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Sabroso Ladrillo Camiseta', 'cantidad': 123, 'precio': 266.8, 'tipo': 'package', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Increible Ladrillo Salchichas', 'cantidad': 391, 'precio': 626.4, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Pequeño Ladrillo Camiseta', 'cantidad': 444, 'precio': 125.28, 'tipo': 'alcoholic', 'restaurante': 'Zarate y Meza'}
+{'nombre': 'Sorprendente Granito Ensalada', 'cantidad': 152, 'precio': 1012.68, 'tipo': 'non-alcoholic', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Genérico Granito Camiseta', 'cantidad': 145, 'precio': 107.88, 'tipo': 'package', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Hecho a mano Metal Mesa', 'cantidad': 217, 'precio': 1.16, 'tipo': 'plate', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Guapa Hormigon Ensalada', 'cantidad': 365, 'precio': 538.24, 'tipo': 'package', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Rústico Hormigon Zapatos', 'cantidad': 343, 'precio': 798.08, 'tipo': 'package', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Artesanal Plástico Salchichas', 'cantidad': 374, 'precio': 715.72, 'tipo': 'plate', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Guapa Granito Bicicleta', 'cantidad': 261, 'precio': 95.12, 'tipo': 'non-alcoholic', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Sorprendente Plástico Raton', 'cantidad': 261, 'precio': 1140.28, 'tipo': 'alcoholic', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Fantástico Algodón Zapatos', 'cantidad': 210, 'precio': 136.88, 'tipo': 'package', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Artesanal Hormigon Queso', 'cantidad': 296, 'precio': 495.32, 'tipo': 'package', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Práctico Granito Zapatos', 'cantidad': 341, 'precio': 77.72, 'tipo': 'alcoholic', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Rústico Acero Pollo', 'cantidad': 190, 'precio': 1046.32, 'tipo': 'package', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Pequeño Ladrillo Pizza', 'cantidad': 364, 'precio': 1156.52, 'tipo': 'alcoholic', 'restaurante': 'Pedraza, Lara y Alemán Asociados'}
+{'nombre': 'Genérico Metal Pescado', 'cantidad': 343, 'precio': 345.68, 'tipo': 'plate', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Inteligente Granito Toallas', 'cantidad': 414, 'precio': 825.92, 'tipo': 'plate', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Refinado Algodón Mesa', 'cantidad': 300, 'precio': 1132.16, 'tipo': 'plate', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Rústico Acero Pelota', 'cantidad': 162, 'precio': 104.4, 'tipo': 'non-alcoholic', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Fantástico Plástico Gorro', 'cantidad': 453, 'precio': 846.8, 'tipo': 'alcoholic', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Ergonómico Madera Bicicleta', 'cantidad': 229, 'precio': 531.28, 'tipo': 'non-alcoholic', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Guapo Hormigon Pollo', 'cantidad': 106, 'precio': 200.68, 'tipo': 'package', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Refinado Ladrillo Atún', 'cantidad': 246, 'precio': 584.64, 'tipo': 'alcoholic', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Guapa Plástico Bacon', 'cantidad': 439, 'precio': 1144.92, 'tipo': 'plate', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Rústico Acero Camiseta', 'cantidad': 307, 'precio': 251.72, 'tipo': 'plate', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Pequeño Plástico Gorro', 'cantidad': 260, 'precio': 607.84, 'tipo': 'alcoholic', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Sorprendente Madera Pantalones', 'cantidad': 168, 'precio': 229.68, 'tipo': 'package', 'restaurante': 'Abreu y Alonzo'}
+{'nombre': 'Increible Algodón Mesa', 'cantidad': 349, 'precio': 1139.12, 'tipo': 'alcoholic', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Inteligente Metal Toallas', 'cantidad': 111, 'precio': 382.8, 'tipo': 'package', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Hecho a mano Hormigon Bacon', 'cantidad': 350, 'precio': 2.32, 'tipo': 'non-alcoholic', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Hecho a mano Hormigon Silla', 'cantidad': 371, 'precio': 712.24, 'tipo': 'package', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Práctico Ladrillo Pizza', 'cantidad': 447, 'precio': 815.48, 'tipo': 'alcoholic', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Guapa Madera Teclado', 'cantidad': 490, 'precio': 889.72, 'tipo': 'package', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Inteligente Plástico Guantes', 'cantidad': 474, 'precio': 566.08, 'tipo': 'non-alcoholic', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Sabroso Ladrillo Atún', 'cantidad': 257, 'precio': 670.48, 'tipo': 'plate', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Práctico Algodón Teclado', 'cantidad': 309, 'precio': 621.76, 'tipo': 'package', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Genérico Algodón Sopa', 'cantidad': 405, 'precio': 1117.08, 'tipo': 'alcoholic', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Guapo Granito Queso', 'cantidad': 160, 'precio': 921.04, 'tipo': 'alcoholic', 'restaurante': 'Aguilera, Rodarte y Borrego Asociados'}
+{'nombre': 'Genérico Plástico Pescado', 'cantidad': 263, 'precio': 83.52, 'tipo': 'package', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Genérico Hormigon Ensalada', 'cantidad': 374, 'precio': 1063.72, 'tipo': 'package', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Sabroso Hormigon Ordenador', 'cantidad': 368, 'precio': 66.12, 'tipo': 'alcoholic', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Ergonómico Madera Silla', 'cantidad': 333, 'precio': 335.24, 'tipo': 'plate', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Fantástico Granito Ordenador', 'cantidad': 168, 'precio': 133.4, 'tipo': 'package', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Práctico Granito Silla', 'cantidad': 494, 'precio': 187.92, 'tipo': 'plate', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Fantástico Madera Bacon', 'cantidad': 391, 'precio': 874.64, 'tipo': 'plate', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Increible Metal Zapatos', 'cantidad': 100, 'precio': 332.92, 'tipo': 'plate', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Guapo Acero Camiseta', 'cantidad': 355, 'precio': 692.52, 'tipo': 'package', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Refinado Plástico Bacon', 'cantidad': 103, 'precio': 515.04, 'tipo': 'plate', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Práctico Metal Pollo', 'cantidad': 203, 'precio': 451.24, 'tipo': 'non-alcoholic', 'restaurante': 'Almonte Vigil S.L.'}
+{'nombre': 'Inteligente Algodón Pelota', 'cantidad': 117, 'precio': 160.08, 'tipo': 'alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Guapa Hormigon Sopa', 'cantidad': 465, 'precio': 1057.92, 'tipo': 'package', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Increible Metal Sopa', 'cantidad': 120, 'precio': 309.72, 'tipo': 'plate', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Inteligente Algodón Coche', 'cantidad': 417, 'precio': 1020.8, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Increible Acero Bacon', 'cantidad': 324, 'precio': 283.04, 'tipo': 'plate', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Ergonómico Algodón Salchichas', 'cantidad': 435, 'precio': 1008.04, 'tipo': 'plate', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Fantástico Ladrillo Camiseta', 'cantidad': 351, 'precio': 185.6, 'tipo': 'alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Ergonómico Plástico Zapatos', 'cantidad': 128, 'precio': 606.68, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Increible Algodón Pelota', 'cantidad': 478, 'precio': 743.56, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Increible Hormigon Mesa', 'cantidad': 485, 'precio': 1027.76, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Rústico Hormigon Gorro', 'cantidad': 350, 'precio': 194.88, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Pequeño Algodón Atún', 'cantidad': 194, 'precio': 412.96, 'tipo': 'package', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Inteligente Plástico Gorro', 'cantidad': 215, 'precio': 222.72, 'tipo': 'plate', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Inteligente Acero Bacon', 'cantidad': 328, 'precio': 1.16, 'tipo': 'alcoholic', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Genérico Acero Ordenador', 'cantidad': 232, 'precio': 306.24, 'tipo': 'package', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Sorprendente Acero Raton', 'cantidad': 465, 'precio': 842.16, 'tipo': 'package', 'restaurante': 'Apodaca, Saiz y Sevilla Asociados'}
+{'nombre': 'Inteligente Hormigon Patatas fritas', 'cantidad': 426, 'precio': 911.76, 'tipo': 'plate', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Guapo Hormigon Gorro', 'cantidad': 209, 'precio': 148.48, 'tipo': 'package', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Hecho a mano Ladrillo Queso', 'cantidad': 221, 'precio': 470.96, 'tipo': 'plate', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Sabroso Madera Zapatos', 'cantidad': 429, 'precio': 861.88, 'tipo': 'package', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Pequeño Acero Salchichas', 'cantidad': 155, 'precio': 890.88, 'tipo': 'package', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Refinado Acero Guantes', 'cantidad': 449, 'precio': 411.8, 'tipo': 'non-alcoholic', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Práctico Ladrillo Coche', 'cantidad': 393, 'precio': 566.08, 'tipo': 'alcoholic', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Sabroso Metal Silla', 'cantidad': 276, 'precio': 364.24, 'tipo': 'non-alcoholic', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Refinado Ladrillo Guantes', 'cantidad': 491, 'precio': 240.12, 'tipo': 'alcoholic', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Artesanal Metal Toallas', 'cantidad': 295, 'precio': 791.12, 'tipo': 'package', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Genérico Metal Salchichas', 'cantidad': 179, 'precio': 44.08, 'tipo': 'package', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Fantástico Ladrillo Mesa', 'cantidad': 435, 'precio': 107.88, 'tipo': 'plate', 'restaurante': 'Montalvo y Matos'}
+{'nombre': 'Sorprendente Granito Teclado', 'cantidad': 325, 'precio': 6.96, 'tipo': 'non-alcoholic', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Increible Hormigon Pescado', 'cantidad': 422, 'precio': 45.24, 'tipo': 'alcoholic', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Genérico Plástico Ensalada', 'cantidad': 432, 'precio': 1125.2, 'tipo': 'non-alcoholic', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Guapo Madera Toallas', 'cantidad': 121, 'precio': 266.8, 'tipo': 'alcoholic', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Hecho a mano Granito Camiseta', 'cantidad': 404, 'precio': 870.0, 'tipo': 'package', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Fantástico Acero Sopa', 'cantidad': 274, 'precio': 26.68, 'tipo': 'package', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Pequeño Hormigon Pollo', 'cantidad': 409, 'precio': 1008.04, 'tipo': 'package', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Sabroso Algodón Gorro', 'cantidad': 206, 'precio': 849.12, 'tipo': 'package', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Artesanal Hormigon Guantes', 'cantidad': 244, 'precio': 1142.6, 'tipo': 'package', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Guapo Ladrillo Pelota', 'cantidad': 114, 'precio': 619.44, 'tipo': 'alcoholic', 'restaurante': 'Salinas González e Hijos'}
+{'nombre': 'Hecho a mano Ladrillo Atún', 'cantidad': 391, 'precio': 141.52, 'tipo': 'package', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Guapo Ladrillo Sopa', 'cantidad': 431, 'precio': 618.28, 'tipo': 'non-alcoholic', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Guapo Metal Silla', 'cantidad': 346, 'precio': 990.64, 'tipo': 'alcoholic', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Increible Granito Raton', 'cantidad': 418, 'precio': 699.48, 'tipo': 'package', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Ergonómico Madera Bicicleta', 'cantidad': 395, 'precio': 236.64, 'tipo': 'non-alcoholic', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Guapo Algodón Silla', 'cantidad': 424, 'precio': 619.44, 'tipo': 'plate', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Hecho a mano Granito Coche', 'cantidad': 140, 'precio': 679.76, 'tipo': 'package', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Guapo Ladrillo Camiseta', 'cantidad': 128, 'precio': 473.28, 'tipo': 'package', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Hecho a mano Plástico Gorro', 'cantidad': 178, 'precio': 917.56, 'tipo': 'plate', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Inteligente Hormigon Pizza', 'cantidad': 405, 'precio': 106.72, 'tipo': 'non-alcoholic', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Inteligente Algodón Raton', 'cantidad': 409, 'precio': 380.48, 'tipo': 'non-alcoholic', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Sabroso Acero Pescado', 'cantidad': 107, 'precio': 707.6, 'tipo': 'alcoholic', 'restaurante': 'Escobar S.A.'}
+{'nombre': 'Genérico Madera Toallas', 'cantidad': 383, 'precio': 705.28, 'tipo': 'non-alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Sorprendente Ladrillo Bicicleta', 'cantidad': 110, 'precio': 560.28, 'tipo': 'package', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Ergonómico Algodón Pollo', 'cantidad': 353, 'precio': 737.76, 'tipo': 'alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Guapo Hormigon Camiseta', 'cantidad': 414, 'precio': 824.76, 'tipo': 'alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Guapo Ladrillo Gorro', 'cantidad': 146, 'precio': 806.2, 'tipo': 'package', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Sorprendente Metal Bacon', 'cantidad': 263, 'precio': 281.88, 'tipo': 'non-alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Increible Plástico Guantes', 'cantidad': 319, 'precio': 701.8, 'tipo': 'package', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Sabroso Metal Teclado', 'cantidad': 195, 'precio': 73.08, 'tipo': 'alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Práctico Madera Pollo', 'cantidad': 122, 'precio': 641.48, 'tipo': 'non-alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Guapo Hormigon Guantes', 'cantidad': 461, 'precio': 1047.48, 'tipo': 'non-alcoholic', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Sorprendente Madera Ensalada', 'cantidad': 404, 'precio': 446.6, 'tipo': 'package', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Pequeño Metal Bicicleta', 'cantidad': 369, 'precio': 836.36, 'tipo': 'package', 'restaurante': 'Garica y Bueno'}
+{'nombre': 'Sorprendente Plástico Toallas', 'cantidad': 458, 'precio': 951.2, 'tipo': 'non-alcoholic', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Pequeño Hormigon Teclado', 'cantidad': 320, 'precio': 563.76, 'tipo': 'package', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Práctico Granito Patatas fritas', 'cantidad': 480, 'precio': 687.88, 'tipo': 'package', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Pequeño Acero Patatas fritas', 'cantidad': 347, 'precio': 653.08, 'tipo': 'plate', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Guapo Acero Toallas', 'cantidad': 331, 'precio': 532.44, 'tipo': 'plate', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Hecho a mano Hormigon Ordenador', 'cantidad': 281, 'precio': 614.8, 'tipo': 'package', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Práctico Madera Salchichas', 'cantidad': 224, 'precio': 859.56, 'tipo': 'non-alcoholic', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Práctico Acero Teclado', 'cantidad': 361, 'precio': 872.32, 'tipo': 'package', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Ergonómico Granito Pantalones', 'cantidad': 294, 'precio': 667.0, 'tipo': 'alcoholic', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Guapa Algodón Guantes', 'cantidad': 199, 'precio': 352.64, 'tipo': 'plate', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Sabroso Ladrillo Ensalada', 'cantidad': 161, 'precio': 483.72, 'tipo': 'package', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Ergonómico Madera Pantalones', 'cantidad': 177, 'precio': 252.88, 'tipo': 'alcoholic', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Sabroso Metal Pizza', 'cantidad': 165, 'precio': 103.24, 'tipo': 'package', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Sabroso Algodón Pantalones', 'cantidad': 114, 'precio': 351.48, 'tipo': 'non-alcoholic', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Fantástico Metal Bicicleta', 'cantidad': 149, 'precio': 133.4, 'tipo': 'non-alcoholic', 'restaurante': 'Roybal, Rendón y Verdugo Asociados'}
+{'nombre': 'Pequeño Madera Teclado', 'cantidad': 482, 'precio': 206.48, 'tipo': 'package', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Rústico Plástico Zapatos', 'cantidad': 182, 'precio': 389.76, 'tipo': 'package', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Guapa Granito Patatas fritas', 'cantidad': 436, 'precio': 1068.36, 'tipo': 'alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Guapo Acero Sopa', 'cantidad': 275, 'precio': 283.04, 'tipo': 'plate', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Fantástico Madera Toallas', 'cantidad': 389, 'precio': 744.72, 'tipo': 'alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Artesanal Plástico Raton', 'cantidad': 113, 'precio': 854.92, 'tipo': 'plate', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Inteligente Hormigon Queso', 'cantidad': 140, 'precio': 1015.0, 'tipo': 'non-alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Fantástico Ladrillo Atún', 'cantidad': 297, 'precio': 817.8, 'tipo': 'package', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Ergonómico Ladrillo Coche', 'cantidad': 290, 'precio': 19.72, 'tipo': 'alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Inteligente Acero Gorro', 'cantidad': 358, 'precio': 723.84, 'tipo': 'non-alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Pequeño Plástico Raton', 'cantidad': 230, 'precio': 894.36, 'tipo': 'package', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Increible Hormigon Atún', 'cantidad': 413, 'precio': 603.2, 'tipo': 'non-alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Artesanal Granito Zapatos', 'cantidad': 446, 'precio': 808.52, 'tipo': 'package', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Refinado Hormigon Guantes', 'cantidad': 498, 'precio': 1129.84, 'tipo': 'non-alcoholic', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Increible Granito Queso', 'cantidad': 413, 'precio': 917.56, 'tipo': 'package', 'restaurante': 'Barrera, Granados y Garza Asociados'}
+{'nombre': 'Inteligente Granito Mesa', 'cantidad': 318, 'precio': 533.6, 'tipo': 'alcoholic', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Artesanal Metal Bacon', 'cantidad': 153, 'precio': 778.36, 'tipo': 'non-alcoholic', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Refinado Hormigon Salchichas', 'cantidad': 385, 'precio': 520.84, 'tipo': 'plate', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Fantástico Hormigon Zapatos', 'cantidad': 390, 'precio': 477.92, 'tipo': 'plate', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Hecho a mano Metal Gorro', 'cantidad': 150, 'precio': 133.4, 'tipo': 'non-alcoholic', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Artesanal Granito Pescado', 'cantidad': 458, 'precio': 930.32, 'tipo': 'non-alcoholic', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Rústico Madera Patatas fritas', 'cantidad': 478, 'precio': 731.96, 'tipo': 'package', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Refinado Granito Patatas fritas', 'cantidad': 270, 'precio': 474.44, 'tipo': 'package', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Ergonómico Madera Gorro', 'cantidad': 398, 'precio': 508.08, 'tipo': 'package', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Sabroso Acero Guantes', 'cantidad': 398, 'precio': 1076.48, 'tipo': 'non-alcoholic', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Inteligente Acero Zapatos', 'cantidad': 351, 'precio': 968.6, 'tipo': 'alcoholic', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Increible Plástico Pantalones', 'cantidad': 249, 'precio': 379.32, 'tipo': 'package', 'restaurante': 'Coronado Armijo e Hijos'}
+{'nombre': 'Fantástico Metal Atún', 'cantidad': 282, 'precio': 766.76, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Guapo Acero Zapatos', 'cantidad': 234, 'precio': 631.04, 'tipo': 'alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Increible Metal Raton', 'cantidad': 309, 'precio': 828.24, 'tipo': 'plate', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Rústico Plástico Gorro', 'cantidad': 262, 'precio': 1001.08, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Inteligente Madera Gorro', 'cantidad': 164, 'precio': 838.68, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Increible Granito Pantalones', 'cantidad': 403, 'precio': 1086.92, 'tipo': 'plate', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Hecho a mano Granito Pescado', 'cantidad': 434, 'precio': 135.72, 'tipo': 'alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Guapo Ladrillo Patatas fritas', 'cantidad': 403, 'precio': 82.36, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Sabroso Madera Pescado', 'cantidad': 423, 'precio': 568.4, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Hecho a mano Algodón Sopa', 'cantidad': 424, 'precio': 1144.92, 'tipo': 'non-alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Guapo Acero Silla', 'cantidad': 102, 'precio': 726.16, 'tipo': 'alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Pequeño Metal Bacon', 'cantidad': 126, 'precio': 64.96, 'tipo': 'alcoholic', 'restaurante': 'Apodaca S.L.'}
+{'nombre': 'Guapa Acero Mesa', 'cantidad': 288, 'precio': 654.24, 'tipo': 'non-alcoholic', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Guapo Granito Sopa', 'cantidad': 380, 'precio': 272.6, 'tipo': 'alcoholic', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Ergonómico Algodón Zapatos', 'cantidad': 101, 'precio': 619.44, 'tipo': 'alcoholic', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Hecho a mano Acero Pollo', 'cantidad': 287, 'precio': 160.08, 'tipo': 'package', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Hecho a mano Acero Bacon', 'cantidad': 473, 'precio': 154.28, 'tipo': 'package', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Inteligente Algodón Silla', 'cantidad': 407, 'precio': 469.8, 'tipo': 'package', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Increible Hormigon Zapatos', 'cantidad': 492, 'precio': 469.8, 'tipo': 'non-alcoholic', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Guapo Madera Pizza', 'cantidad': 127, 'precio': 880.44, 'tipo': 'package', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Ergonómico Ladrillo Atún', 'cantidad': 123, 'precio': 912.92, 'tipo': 'alcoholic', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Refinado Hormigon Guantes', 'cantidad': 442, 'precio': 765.6, 'tipo': 'package', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Rústico Madera Bicicleta', 'cantidad': 499, 'precio': 1099.68, 'tipo': 'plate', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Ergonómico Madera Salchichas', 'cantidad': 481, 'precio': 559.12, 'tipo': 'plate', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Sorprendente Acero Camiseta', 'cantidad': 356, 'precio': 135.72, 'tipo': 'package', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Sorprendente Hormigon Zapatos', 'cantidad': 255, 'precio': 1092.72, 'tipo': 'plate', 'restaurante': 'Montaño Aranda e Hijos'}
+{'nombre': 'Pequeño Algodón Guantes', 'cantidad': 112, 'precio': 176.32, 'tipo': 'package', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Sabroso Ladrillo Coche', 'cantidad': 134, 'precio': 438.48, 'tipo': 'non-alcoholic', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Guapa Metal Salchichas', 'cantidad': 491, 'precio': 571.88, 'tipo': 'alcoholic', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Fantástico Algodón Coche', 'cantidad': 350, 'precio': 698.32, 'tipo': 'plate', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Refinado Metal Pantalones', 'cantidad': 367, 'precio': 1153.04, 'tipo': 'plate', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Genérico Ladrillo Zapatos', 'cantidad': 440, 'precio': 996.44, 'tipo': 'plate', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Hecho a mano Plástico Toallas', 'cantidad': 479, 'precio': 704.12, 'tipo': 'alcoholic', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Fantástico Madera Ordenador', 'cantidad': 159, 'precio': 10.44, 'tipo': 'package', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Artesanal Madera Ordenador', 'cantidad': 172, 'precio': 1071.84, 'tipo': 'alcoholic', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Ergonómico Algodón Ordenador', 'cantidad': 268, 'precio': 947.72, 'tipo': 'package', 'restaurante': 'Olivares, Rentería y Alarcón Asociados'}
+{'nombre': 'Guapo Granito Sopa', 'cantidad': 256, 'precio': 940.76, 'tipo': 'non-alcoholic', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Increible Algodón Camiseta', 'cantidad': 255, 'precio': 805.04, 'tipo': 'non-alcoholic', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Práctico Plástico Raton', 'cantidad': 124, 'precio': 1.16, 'tipo': 'plate', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Artesanal Ladrillo Pescado', 'cantidad': 385, 'precio': 451.24, 'tipo': 'non-alcoholic', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Pequeño Metal Silla', 'cantidad': 426, 'precio': 109.04, 'tipo': 'plate', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Genérico Algodón Toallas', 'cantidad': 493, 'precio': 300.44, 'tipo': 'non-alcoholic', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Guapo Algodón Pizza', 'cantidad': 351, 'precio': 135.72, 'tipo': 'package', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Increible Granito Gorro', 'cantidad': 281, 'precio': 894.36, 'tipo': 'plate', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Sorprendente Madera Sopa', 'cantidad': 448, 'precio': 946.56, 'tipo': 'plate', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Genérico Plástico Guantes', 'cantidad': 343, 'precio': 236.64, 'tipo': 'package', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Genérico Ladrillo Pescado', 'cantidad': 337, 'precio': 773.72, 'tipo': 'package', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Genérico Acero Gorro', 'cantidad': 296, 'precio': 143.84, 'tipo': 'plate', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Refinado Algodón Zapatos', 'cantidad': 152, 'precio': 60.32, 'tipo': 'package', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
+{'nombre': 'Refinado Algodón Mesa', 'cantidad': 323, 'precio': 288.84, 'tipo': 'non-alcoholic', 'restaurante': 'Ybarra, Quintana y Espino Asociados'}
